@@ -1,0 +1,1 @@
+Consegui realizar clone, add, commit e push, todos pelo terminal BASH, muito feliz, achei que fosse mais difícil, valeu DIO !
