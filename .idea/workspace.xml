@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1461b032-78ce-4a8f-bedf-3bbded7ddcfa" name="Changes" comment="Atualizando a classe OlaMundo.">
-      <change afterPath="$PROJECT_DIR$/src/br/com/jacobsonsistemas/Variaveis.java" afterDir="false" />
+    <list default="true" id="1461b032-78ce-4a8f-bedf-3bbded7ddcfa" name="Changes" comment="Criando a classe Variáveis.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/jacobsonsistemas/OlaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jacobsonsistemas/OlaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/jacobsonsistemas/Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jacobsonsistemas/Variaveis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,19 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="25ba4ade-2209-4442-b313-5a3a760d37b3" />
+        <option name="url" value="https://github.com/jacobson344/teste.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -110,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678404772121</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criando a classe Variáveis.">
+      <created>1678408018372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678408018372</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Criando a classe Variáveis.">
+      <created>1678408150023</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678408150023</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +154,18 @@
     <MESSAGE value="Primeiro commit dos projetos das aulas." />
     <MESSAGE value="Enviando novo commit com a branch main" />
     <MESSAGE value="Atualizando a classe OlaMundo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando a classe OlaMundo." />
+    <MESSAGE value="Criando a classe Variáveis." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando a classe Variáveis." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/jacobsonsistemas/Variaveis.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

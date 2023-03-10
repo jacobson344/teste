@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Variaveis {
     public static void main(String[] args) {
-   /*     int n1 = 10;
+        int n1 = 10;
         int n2 = 25;
 
         float f1 = 10.5f;
-        float f2 = 42.3f;*/
+        float f2 = 42.3f;
 
         String msg = "Digite um número.";
 
@@ -18,7 +18,13 @@ public class Variaveis {
         double d2 = scan.nextDouble();
         System.out.print(msg);
         double d1 = scan.nextDouble();
-        double resultado = d1 + d2;
+        double resultado = (d1 + d2);
         System.out.println(resultado);
+
+        int calculo = n1 + n2;
+        System.out.println(calculo);
+
+        float calculoFloat = (f1 / f2);
+        System.out.println ( calculoFloat);
     }
 }
